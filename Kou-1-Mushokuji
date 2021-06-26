@@ -7,41 +7,37 @@
   "chapters": {
     "37": {
       "title": "The Two Merchants",
-      "volume": "",
       "groups": {
         "Mushokuji": "/proxy/api/mangadex/chapter/e30f6e7f-5353-462d-8e24-84f016cb243d/"
       },
       "last_updated": "1608562515"
-    }
+    },
     {
       "chapters": {
     "38": {
       "title": "The Two Merchants 2",
-      "volume": "",
       "groups": {
         "Mushokuji": "/proxy/api/mangadex/chapter/b2f26917-97b8-4e0e-8839-00ee3a10e56d/"
       },
       "last_updated": "1609167315"
-    }
+    },
      {
       "chapters": {
     "39": {
       "title": "Alvy",
-      "volume": "",
       "groups": {
         "Mushokuji": "/proxy/api/mangadex/chapter/b1150120-9a97-451f-8b4a-6beaa0f6c02b/"
       },
       "last_updated": "1610808915"
-    }
+    },
      {
       "chapters": {
     "40": {
       "title": "Mimia's Decision",
-      "volume": "",
       "groups": {
         "Mushokuji": "/proxy/api/mangadex/chapter/2c091a29-1132-4b3c-9d86-f55e94e8e177/"
       },
       "last_updated": "1612018515"
-    },
+    }
   }
 }
